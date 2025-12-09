@@ -1,6 +1,14 @@
 # SkyCast 🌤️
 
-> SkyCast is a modern **weather forecast app** built with Flutter, allowing users to search weather information for any city and view a 5-day forecast.  
+> SkyCast is a modern **weather forecast app** built with Flutter, allowing users to search weather information for any city and view a 5-day forecast.
+
+
+## 🌐 Demo Web App
+
+Try the live web version of SkyCast here:
+
+👉 **https://skycast-webapp.vercel.app/**
+
 
 ## 📱 Demo APK
 
