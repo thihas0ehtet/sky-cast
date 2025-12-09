@@ -7,13 +7,14 @@
 
 Try the live web version of SkyCast here:
 
-👉 **https://skycast-webapp.vercel.app/**
+👉 **https://skycast-webapp.vercel.app**
 
+---
 
 ## 📱 Demo APK
 
 You can download the demo APK here:  
-[Download SkyCast APK](https://drive.google.com/file/d/1TCRzRvyFKtrhT5K7x-ouVdAk_mOpODQD/view?usp=share_link)
+[Download SkyCast APK](https://drive.google.com/file/d/1qp3dGdlQbd0EHFpFS1l0dDdnghkXxu84/view)
 
 ---
 
@@ -33,8 +34,11 @@ You can download the demo APK here:
 
 | Feature            | Implementation     |
 | :----------------- | :----------------- |
+| Flutter Version    | Flutter 3.35.7     |
 | State Management   | Riverpod           |
-| API Service        | Dio                |
+| Navigation         | go_router          |
+| HTTP Client        | Dio                |
+| Env Config         | envied             |
 | Architecture       | MVVM               |
 | UI                 | Flutter + Material |
 
@@ -42,10 +46,11 @@ You can download the demo APK here:
 
 ## 🔥 Features
 
-- Search for weather information of any city  
+- Search weather by city name
 - View **current weather conditions** including temperature and weather description 🌡️💨  
-- **5-day weather forecast** 📅  
+- **5-day weather forecast** with daily highs/lows  
 - Toggle between **Celsius (°C) and Fahrenheit (°F)**  
+- Responsive UI with Material Design
 
 
 ---
