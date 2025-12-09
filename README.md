@@ -11,14 +11,13 @@ You can download the demo APK here:
 
 ## 🖼 Screenshots
 
-<!-- Uncomment and add your screenshots -->
-<!--
 <p>
-<img src='Screen1.jpg' width='200' height='400'>
-<img src='Screen2.jpg' width='200' height='400'>
-<img src='Screen3.jpg' width='200' height='400'>
+<img src='Screen1.png' width='200' height='400'>
+<img src='Screen2.png' width='200' height='400'>
+<img src='Screen3.png' width='200' height='400'>
+<img src='Screen4.png' width='200' height='400'>
 </p>
--->
+
 
 ---
 
@@ -28,16 +27,16 @@ You can download the demo APK here:
 | :----------------- | :----------------- |
 | State Management   | Riverpod           |
 | API Service        | Dio                |
-| Architecture       | MVVM / Clean       |
+| Architecture       | MVVM               |
 | UI                 | Flutter + Material |
 
 ---
 
 ## 🔥 Features
 
-- Search for weather information of any city 🌍  
-- View **current weather conditions** including temperature, humidity, wind speed, and weather description 🌡️💨  
-- **5-day weather forecast** with hourly temperature trends 📅  
+- Search for weather information of any city  
+- View **current weather conditions** including temperature and weather description 🌡️💨  
+- **5-day weather forecast** 📅  
 - Toggle between **Celsius (°C) and Fahrenheit (°F)**  
 
 
@@ -62,7 +61,7 @@ SkyCast uses **OpenWeatherMap API** to fetch weather data.
 1. **Clone the repository**  
 
 ```bash
-git clone https://github.com/yourusername/skycast.git
+git clone https://github.com/thihas0ehtet/sky-cast
 ```
 
 2. **Install dependencies**  

@@ -21,8 +21,6 @@ dependencies:
   intl: ^0.20.2
   cached_network_image: ^3.4.1
 
-  flutter_native_splash: ^2.4.7
-
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
@@ -35,10 +33,6 @@ dev_dependencies:
   json_serializable: ^6.8.0
 
   flutter_lints: ^5.0.0
-
-flutter_native_splash:
-  color: "#67c2f0"
-  image: "assets/logo.png"
 
 
 flutter:
