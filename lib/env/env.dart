@@ -9,7 +9,4 @@ abstract class Env {
 
   @EnviedField(varName: 'WEATHER_API_KEY')
   static const String weatherApiKey = _Env.weatherApiKey;
-  
-  static const String weatherDataApiUrl = '$weatherApiUrl/data/2.5';
-  static const String weatherGeoApiUrl = '$weatherApiUrl/geo/1.0';
 }
